@@ -1,4 +1,4 @@
-````md
+:::writing{variant="standard" id="58142"}
 <div align="center">
 
 # Amir Iqbal Khan
@@ -241,4 +241,4 @@ Amir Group of Technologies focuses on building modern business software ecosyste
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:7c3aed&height=180&section=footer&text=Technology%20That%20Builds%20People&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=65" />
 
 </div>
-````
+:::
