@@ -1,60 +1,47 @@
 <div align="center">
 
-# Hi, I'm Amir Iqbal Khan 👋
+# Amir Iqbal Khan
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Founder+%7C+Software+Developer+%7C+Data+Analyst;Building+Modern+Business+Software;Focused+on+AI%2C+Data%2C+Full-Stack+Development)
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&pause=1000&color=2563EB&center=true&vCenter=true&width=1000&lines=Senior+BI+Analyst+at+Uber+%7C+Saskatchewan+Canada;Founder+%26+CEO+of+Amir+Group+of+Technologies;Oracle+Global+Rank+%23486+%7C+Afghanistan+Rank+%231;Building+Modern+AI+%26+Business+Platforms;Serving+Afghan%2C+Pakistani+%26+Indian+Businesses" alt="Typing SVG" />
 
-</div>
+<br/>
+<br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=2563eb&style=for-the-badge" />
 
-## 🚀 About Me
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=111827" />
 
-I am a software developer, data enthusiast, and founder of **Amir Group of Technologies**.  
-I build modern business applications, management systems, dashboards, and data-driven platforms.
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=16a34a" />
 
----
+<img src="https://img.shields.io/badge/Oracle-Global%20Rank%20%23486-red?style=for-the-badge&logo=oracle" />
 
-## 🧠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,mongodb,postgres,html,css,tailwind,git,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Dashboard
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+<img src="https://img.shields.io/badge/Afghanistan-Rank%20%231-success?style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🏗️ Projects I Build
+# 🚀 About Me
 
-- Pharmacy Management Systems
-- Grocery/POS Management Systems
-- Clinic & Dental Management Systems
-- School Management Systems
-- Trading Journals
-- Real Estate Platforms
-- Restaurant & Food Systems
-- Data Dashboards
+```yaml
+Name: Amir Iqbal Khan
+Role: Senior BI Analyst
+Company: Uber
+Location: Saskatchewan, Canada
 
----
+Founder:
+  - Amir Group of Technologies
 
-## 📌 Featured Focus
+Specializations:
+  - Business Intelligence
+  - Data Analytics
+  - Full-Stack Development
+  - AI-Assisted Engineering
+  - Enterprise Applications
+  - Data Visualization
+  - Dashboard Engineering
 
-```txt
-Full-Stack Development
-Database Applications
-AI-Assisted Software Engineering
-Data Analytics
-Business Management Systems
+Serving Markets:
+  - Afghanistan
+  - Pakistan
+  - India
