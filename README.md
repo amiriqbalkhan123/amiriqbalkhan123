@@ -231,6 +231,9 @@ Amir Group of Technologies focuses on building modern business software ecosyste
   <img src="https://img.shields.io/badge/Instagram-2563EB?style=for-the-badge&logo=instagram" />
 </a>
 
+[![committers.top badge](https://user-badge.committers.top/afghanistan/amiriqbalkhan123.svg)](https://user-badge.committers.top/afghanistan/amiriqbalkhan123)
+
+
 </div>
 
 ---
@@ -238,7 +241,6 @@ Amir Group of Technologies focuses on building modern business software ecosyste
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:7c3aed&height=180&section=footer&text=Technology%20That%20Builds%20People&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=65" />
-[![committers.top badge](https://user-badge.committers.top/afghanistan/amiriqbalkhan123.svg)](https://user-badge.committers.top/afghanistan/amiriqbalkhan123)
 
 </div>
 :::
