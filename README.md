@@ -1,4 +1,3 @@
-:::writing{variant="standard" id="58142"}
 <div align="center">
 
 # Amir Iqbal Khan
