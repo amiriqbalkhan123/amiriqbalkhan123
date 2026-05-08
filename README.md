@@ -7,11 +7,11 @@
 <br/>
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=2563eb&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=amiriqbalkhan123&label=Profile+Views&color=2563eb&style=for-the-badge" />
 
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=111827&logo=github" />
+<img src="https://img.shields.io/github/followers/amiriqbalkhan123?style=for-the-badge&color=111827&logo=github" />
 
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=f59e0b&logo=github" />
+<img src="https://img.shields.io/github/stars/amiriqbalkhan123?style=for-the-badge&color=f59e0b&logo=github" />
 
 <img src="https://img.shields.io/badge/Oracle%20Global%20Ranking-%23486-red?style=for-the-badge&logo=oracle" />
 
