@@ -2,7 +2,7 @@
 
 # Amir Iqbal Khan
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&pause=1000&color=2563EB&center=true&vCenter=true&width=1200&lines=Senior+Business+Intelligence+Analyst+at+Uber+Inc.;Founder+%26+CEO+of+Amir+Group+of+Technologies;Oracle+Afghanistan+Ranking+%231+-+2025;Oracle+Global+Ranking+%23486+-+2025;AI+%7C+Analytics+%7C+Full-Stack+Engineering+%7C+Business+Platforms" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&pause=1000&color=2563EB&center=true&vCenter=true&width=1200&lines=Founder+%26+CEO+of+Amir+Group+of+Technologies;Oracle+Afghanistan+Ranking+%231+-+2025;Oracle+Global+Ranking+%23486+-+2025;AI+%7C+Analytics+%7C+Full-Stack+Engineering+%7C+Business+Platforms" />
 
 <br/>
 <br/>
