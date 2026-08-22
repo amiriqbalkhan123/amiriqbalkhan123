@@ -26,8 +26,6 @@
 ```yaml
 Name: Amir Iqbal Khan
 
-Current Role:
-  - Senior Business Intelligence Analyst at Uber Inc.
 
 Leadership:
   - Founder & CEO of Amir Group of Technologies
@@ -213,10 +211,6 @@ Amir Group of Technologies focuses on building modern business software ecosyste
 
 <a href="https://github.com/amiriqbalkhan123">
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://linkedin.com/in/amiriqbalkhan123">
-  <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="https://amirgroupoftechnologies.com">
